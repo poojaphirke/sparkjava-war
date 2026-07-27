@@ -1,4 +1,4 @@
-# sparkjava-war-example-nik.
+# sparkjava-war-example-sai.
 Build war with maven and sparkjava framework (DevOps)
 
 Steps:-
